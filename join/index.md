@@ -9,8 +9,8 @@ We are seeking new members at the postdoctoral, graduate, and undergraduate leve
 
 ### Postdoctoral Fellows
 Strong candidates will likely have either:
-* a PhD in a quantitative / computational field, such as mathematics, statistics, computer science, physics, etc. Experience with biological or clinical data is preferred but not required;
-* a PhD in the biological sciences and a strong quantitative background.
+* PhD in a quantitative / computational field: mathematics, statistics, computer science, physics, or a related field. Experience with biological or clinical data is preferred but not required.
+* PhD in the biological sciences and a strong quantitative background.
 
 To apply, please email the following info to [Jaehee](mailto:jaehee.kim@cornell.edu).
 * Research statement that includes your research interests and the type of projects you would like to pursue in the lab.

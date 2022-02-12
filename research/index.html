@@ -1,0 +1,73 @@
+---
+layout: default
+title: Kim Lab | Research
+categories:
+- research
+---
+
+<!--
+<center><h4>Current and future research projects. To be involved in our research, please see <a href="https://jaeheekimlab.github.io/join/">Join</a>.</h4></center>
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+-->
+
+
+<h4>To be involved in our research, please see <a href="https://jaeheekimlab.github.io/join/">Join</a>.</h4>
+
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+
+<div class="bigspacer"></div>
+
+{% assign counter = 0 %}
+
+{% for proj in site.categories.research %}
+
+    {% if forloop.first %}
+        <div class="row">
+            <div class="col-md-12">
+            </div>
+        </div>
+        <div class="row">
+    
+    {% else %}
+        {% assign counter = counter | plus: 1 %}
+        {% assign mod = counter | modulo: 2 %}
+        {% if mod == 0 %}
+    	    </div>
+    	    <div class="row">
+        {% endif %}
+    {% endif %}
+
+    <div class="col-lg-6 paperbox">
+        
+        {% if mod == 1 %}
+        <div class="media">
+            <div class="media-body">
+                <div class="bighead mb-1 ml-5"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
+            </div>
+            <a href="{{ proj.url }}">
+                <img class="ml-1" width=300 class="media-object" src="{{ proj.image }}">
+                    </a>
+        </div>
+        
+        {% else %}
+        <div class="media">
+            <div class="media-body">
+                <div class="bighead mb-1"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
+            </div>
+            <a href="{{ proj.url }}">
+                <img class="ml-1 mr-5" width=250 class="media-object" src="{{ proj.image }}">
+                    </a>
+        </div>
+        
+        {% endif %}
+        
+        <div class="bigspacer"></div>
+        <div class="bigspacer"></div>
+        <div class="bigspacer"></div>
+    </div>
+{% endfor %}
+</div>
+
