@@ -43,23 +43,25 @@ categories:
     <div class="col-lg-6 paperbox">
         
         {% if mod == 1 %}
-        <div class="media">
-            <div class="media-body">
-                <div class="bighead mb-1 ml-5"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
-            </div>
+        <div class="media align-middle">
             <a href="{{ proj.url }}">
-                <img class="ml-1" width=300 class="media-object" src="{{ proj.image }}">
+                <img class="ml-3" width=120 class="media-object" src="{{ proj.image }}">
                     </a>
+            <div class="media-body">
+                <div class="bighead ml-2 mt-4"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
+            </div>
+
         </div>
         
         {% else %}
-        <div class="media">
-            <div class="media-body">
-                <div class="bighead mb-1"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
-            </div>
+        <div class="media align-middle">
             <a href="{{ proj.url }}">
-                <img class="ml-1 mr-5" width=250 class="media-object" src="{{ proj.image }}">
+                <img class="ml-0" width=120 class="media-object" src="{{ proj.image }}">
                     </a>
+            <div class="media-body">
+                <div class="bighead ml-2 mt-4 mr-3"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
+            </div>
+
         </div>
         
         {% endif %}
