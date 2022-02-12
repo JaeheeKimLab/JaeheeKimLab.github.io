@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kim Lab | Projects
+title: Kim Lab | Research
 categories:
  - research
 ---
