@@ -15,6 +15,7 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/images/logo.png"/>
 
+
 	<!-- Typekit -->
     
 	<script>
@@ -56,7 +57,7 @@
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
 					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.png">
-					Kim Lab @Cornell
+					Kim Lab @ Cornell
 				</a>
 				{% else %}
 				<a class="navbar-brand" href="/">
