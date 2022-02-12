@@ -1,6 +1,6 @@
 name: Kim Lab at Cornell Comp Bio
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: https://kimlab.github.io/
+description: Science updates on population genetics and  evolutionary biology at Jaehee Kim's lab
+url: https://jaeheekimlab.github.io/
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -43,4 +43,3 @@ exclude:
   - "Gemfile.lock"
 
 projects:
-  - trvrb/stem
