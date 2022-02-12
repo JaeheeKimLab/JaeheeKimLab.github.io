@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Gene Drive Modeling
+title: Population Dynamics of Gene Drive
+image: /images/research/gene-drive-grey.png
 ---
 
-## Gene Drive Modeling
+## Population Dynamics of Gene Drive
