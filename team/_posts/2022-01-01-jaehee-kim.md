@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jaehee Kim
-position: Principal investigator
+position: Principal Investigator
 handle: jk2236
 github: jk2236
 scholar: pOOe-o4AAAAJ
