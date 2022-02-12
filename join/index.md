@@ -1,0 +1,32 @@
+---
+layout: default
+title: Kim Lab | Join
+---
+
+## We are hiring!!! ##
+We are seeking new members at the postdoctoral, graduate, and undergraduate levels. Potential members of the lab are expected to have a strong background in quantitative sciences, and to be interested in research in biology and genetics that incorporates mathematical, statistical, and computational approaches. 
+
+
+### Postdoctoral Fellows
+Strong candidates will likely have either:
+* a PhD in a quantitative / computational field, such as mathematics, statistics, computer science, physics, etc. Experience with biological or clinical data is preferred but not required;
+* a PhD in the biological sciences and a strong quantitative background.
+
+To apply, please email the following info to [Jaehee](mailto:jaehee.kim@cornell.edu).
+* Research statement that includes your research interests and the type of projects you would like to pursue in the lab.
+* Current CV.
+* Code samples or links to published/distributed code.
+* Names and contacts for three references.
+
+
+### Graduate Students
+*  Prospective graduate students can apply to the graduate program of the [Department of Computational Biology](https://compbio.cornell.edu/) at Cornell. For students specifically interested in the lab, please notify [Jaehee](mailto:jaehee.kim@cornell.edu) in advance about your application. 
+*  For current graduate students at Cornell interested in the lab, please send CV and a short description of research interest to [Jaehee](mailto:jaehee.kim@cornell.edu).
+
+
+### Undergraduate Students
+Highly motivated undergraduate students interested in the lab should email an inquiry to [Jaehee](mailto:jaehee.kim@cornell.edu) with a transcript (unofficial is fine), CV, and a short description of research interest.
+
+
+
+

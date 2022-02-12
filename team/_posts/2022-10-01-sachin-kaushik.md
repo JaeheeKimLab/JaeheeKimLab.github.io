@@ -11,7 +11,7 @@ I'm interested in studying evolutionary processes using mathematical and computa
 *Sachin will begin his position with us on Oct 1, 2022.* 
 
 
-#### Education ####
+#### Education 
 * 2022 (expected) Ph.D. in Theoretical Sciences. Jawaharlal Nehru for Advanced Scientific Research (JNCASR), Bangalore, India
 * 2017 M.S. in Physics Indian Institute of Technology, Delhi, India
 * 2015 B.S. in Physics. University of Delhi, New Delhi, India
