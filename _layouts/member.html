@@ -104,11 +104,13 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 	</div>
+    
 	<div class="col-lg-8">
 		<div class="post">
 			{{ content }}
 		</div>
-
+        
+        <!--For publication list -->
 		{% assign lastname = member.title | split: ' ' | last %}
 		{% assign firstinitial = member.title | split: ' ' | first | slice: 0 %}
 		{% assign searchstring = lastname | append: ' ' | append: firstinitial %}

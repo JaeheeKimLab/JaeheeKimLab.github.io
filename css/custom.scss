@@ -148,8 +148,8 @@ b, strong {
 /* headings */
 
 .bigtitle {
-	font-size: 60px;
-	line-height: 55px;
+	font-size: 45px;
+	line-height: 40px;
 	font-weight: 100;
 	/* Museo */
 }
@@ -349,6 +349,7 @@ blockquote {
 	@extend .text-dark-gray;
 	text-align: center;
 	margin-right: 2px;
+    font-size: 16px;
 }
 
 .centered-pills {
