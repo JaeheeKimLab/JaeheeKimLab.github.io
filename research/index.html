@@ -12,11 +12,18 @@ categories:
 <h4>To be involved in our research, please see <a href="https://jaeheekimlab.github.io/join/">Join</a>.</h4>
 --> 
 
+<!--
 <div class="bigspacer"></div>
+<div class="bigspacer"></div>
+<div class="smallspacer"></div>
+-->
+
 <div class="bigspacer"></div>
 <div class="bigspacer"></div>
 
-
+<!--
+<div class="hugespacer"></div>
+-->
 
 {% assign counter = 0 %}
 
@@ -43,7 +50,7 @@ categories:
         {% if mod == 1 %}
         <div class="media align-middle">
             <a href="{{ proj.url }}">
-                <img class="ml-4" width=100 class="media-object" src="{{ proj.image }}">
+                <img class="ml-2" width=100 class="media-object" src="{{ proj.image }}">
                     </a>
             <div class="media-body">
                 <div class="medhead ml-4 mt-3"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
@@ -57,16 +64,25 @@ categories:
                 <img class="ml-0" width=100 class="media-object" src="{{ proj.image }}">
                     </a>
             <div class="media-body">
-                <div class="medhead ml-4 mt-3 mr-4"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
+                <div class="medhead ml-4 mt-3 mr-2"><a href="{{ proj.url }}" class="off">{{ proj.title }}</a></div>
             </div>
 
         </div>
         
         {% endif %}
         
+        <!--
         <div class="bigspacer"></div>
         <div class="bigspacer"></div>
+        <div class="smallspacer"></div>
+        -->
         <div class="bigspacer"></div>
+        <div class="bigspacer"></div>
+        
+        <!--
+        <div class="hugespacer"></div>
+        -->
+        
     </div>
 {% endfor %}
 </div>
