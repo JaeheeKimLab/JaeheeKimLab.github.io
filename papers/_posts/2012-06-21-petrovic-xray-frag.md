@@ -11,5 +11,5 @@ supplement: /pdfs/papers/2012-petrovic-xray-frag-si.pdf
 doi: 10.1103/PhysRevLett.108.253006
 ---
 
-## Abstract
+### Abstract
 We report the first study of UV-induced photoisomerization probed via core ionization by an x-ray laser. We investigated x-ray ionization and fragmentation of the cyclohexadiene-hexatriene system at 850 eV during the ring opening. We find that the ion-fragmentation patterns evolve over a picosecond, reflecting a change in the state of excitation and the molecular geometry: the average kinetic energy per ion fragment and H+ ion count increase as the ring opens and the molecule elongates. We discuss new opportunities for molecular photophysics created by optical pump x-ray probe experiments.
