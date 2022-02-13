@@ -5,6 +5,7 @@ position: Postdoc
 handle: sachink
 scholar: Pkjr5MQAAAAJ
 alumni: false
+image: /images/team/sachin-kaushik.png
 ---
 
 I'm interested in studying evolutionary processes using mathematical and computational methods. I work in theoretical population genetics. My research focuses on understanding how evolution works at the genetic level and how organisms adapt to the changing environment through various evolutionary forces, such as mutation, selection, and genetic drift.\
