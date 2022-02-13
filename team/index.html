@@ -20,9 +20,15 @@ categories:
     {% cycle 'add rows': '<div class="row">', '', '' %}
 		<div class="col-lg-4 memberbox">
 			<div class="media">
-  				<a class="float-left" href="{{ member.url }}">
-    				<img width=160 class="mr-3" src="{{ member.image }}">
-  				</a>
+                {% if member.handle == "jk2236" %}
+                    <a class="float-left" href="{{ member.url }}">
+                      <img width=160 class="mr-3" src=/images/team/jaehee-kim2.png>
+                    </a>
+                {% else %}
+                    <a class="float-left" href="{{ member.url }}">
+                        <img width=160 class="mr-3" src="{{ member.image }}">
+                    </a>
+                {% endif %}
  			 	<div class="media-body">
     				<div class="head mb-1"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
     				<p class="note">{{ member.position }}</p>
