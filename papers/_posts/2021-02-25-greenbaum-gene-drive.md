@@ -16,5 +16,4 @@ The prospect of utilizing CRISPR-based gene-drive technology for controlling pop
 
 
 ### Press Coverage
-* ["Gene pushing": Researchers trying to prevent loss of control](https://www.ynet.co.il/environment-science/article/B1l9MUXv00){:target="_blank"}, ynet (one of the major Israeli news), April 26, 2021.
-
+* ["Gene pushing": Researchers trying to prevent loss of control](https://www.ynet.co.il/environment-science/article/B1l9MUXv00){:target="_blank"} (in Hebrew), ynet.
