@@ -12,7 +12,7 @@ Data matching is the process of identifying entries in different datasets that r
 
 Cross-database comparison of genomic data poses additional challenges, as privacy risks are not only limited to database entrants but also to their relatives. In forensic genetics, investigators perform “familial searching” by examining databases for a partial match, indicating that a query DNA profile has been drawn from a relative of a database entrant. As rapidly growing consumer genomic databases are being exploited for law enforcement, the potential for familial matching between two distinct genetic databases uncovers new privacy risks. 
 
-We are investigating the importance of genetic ancestry to familial searching within and across databases and its effect on false positive identifications, privacy, and unequal representation of different populations in forensic DNA profiling. 
+We study the importance of genetic ancestry to familial searching within and across databases and its effect on false positive identifications, privacy, and unequal representation of different populations in forensic DNA profiling. 
 
 
 
