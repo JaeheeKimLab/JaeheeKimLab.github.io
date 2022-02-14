@@ -12,4 +12,4 @@ We are developing theoretical and computational frameworks for investigating fra
 
 
 #### Collaborators
-* [Gili Greenbaum](https://www.greenbaumlab.com/){:target="_blank"} at the Hebrew University. 
+* [Gili Greenbaum](https://www.greenbaumlab.com/){:target="_blank"}, Hebrew University. 

@@ -4,4 +4,6 @@ title: Manifold Learning
 image: /images/research/manifold-grey.png
 ---
 
-## Manifold Learning
+## <img style="width:100px; padding-right: 10px;" src="/images/research/manifold-grey.png"> Manifold Learning
+
+<br/>

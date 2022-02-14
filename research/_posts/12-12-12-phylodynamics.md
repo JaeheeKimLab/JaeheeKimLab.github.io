@@ -8,5 +8,11 @@ image: /images/research/epi-grey.png
 <br/>
 
 
+coalescent framework
+
 For further overview of the problem, see our [review paper](/papers/cappello-phylodynamics-review/).
 
+
+#### Collaborators
+* [Lorenzo Cappello](https://lorenzocapp.github.io/){:target="_blank"}, Universitat Pompeu Fabra.
+* [Julia Palacios](https://juliapalacios.github.io/){:target="_blank"}, Stanford University. 
