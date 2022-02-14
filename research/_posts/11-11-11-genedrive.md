@@ -10,9 +10,3 @@ image: /images/research/gene-drive-grey.png
 Gene drives are genetic constructs that can bias transmission of desired alleles to progeny, allowing these alleles to rapidly increase in frequency even when they are negatively selected. With recent innovation in CRISPR/Cas9-based methods, gene drives have attracted considerable attention for their potential applications for suppressing disease vectors, agricultural pests, or invasive species. 
 
 
-for efficient management as well as for unintended ... conservation.
-
-
-reaction diffusion model 
-
-optimal control theory

@@ -8,7 +8,7 @@ image: /images/research/epi-grey.png
 <br/>
 
 
-coalescent framework
+
 
 For further overview of the problem, see our [review paper](/papers/cappello-phylodynamics-review/).
 
