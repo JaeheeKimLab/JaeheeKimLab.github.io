@@ -5,11 +5,16 @@ image: /images/research/forensic-grey.png
 ---
 
 ## <img style="width:100px; padding-right: 10px;" src="/images/research/forensic-grey.png"> Forensic Genetics
-
-
-
-
 <br/>
+
+
+Data matching is the process of identifying entries in different datasets that represent the same underlying entity but with different identifiers. Merging data from disparate sources improves data quality and enables analysis that is not feasible on a single database. However, data matching raises privacy concerns since anonymized data could be subject to re-identification when linked to other databases, thereby revealing sensitive, confidential information. 
+
+Cross-database comparison of genomic data poses additional challenges, as privacy risks are not only limited to database entrants but also to their relatives. In forensic genetics, investigators perform “familial searching” by examining databases for a partial match, indicating that a query DNA profile has been drawn from a relative of a database entrant. As rapidly growing consumer genomic databases are being exploited for law enforcement, the potential for familial matching between two distinct genetic databases uncovers new privacy risks. 
+
+We are investigating the importance of genetic ancestry to familial searching within and across databases and its effect on false positive identifications, privacy, and unequal representation of different populations in forensic DNA profiling. 
+
+
 
 #### Selected Press Coverage of Previous Works
 * [You might not be anonymous, thanks to genealogy databases](https://www.cnn.com/2018/10/11/health/genetic-privacy-study/index.html){:target="_blank"}, CNN.
