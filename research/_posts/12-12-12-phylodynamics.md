@@ -18,4 +18,4 @@ For further overview of the problem, see our [review paper](/papers/cappello-phy
 #### Collaborators: Mycobacterium Tuberculosis Project
 * [Lorenzo Cappello](https://lorenzocapp.github.io/){:target="_blank"}, Universitat Pompeu Fabra.
 * [Andrew Clark](https://blogs.cornell.edu/andyclarklab/){:target="_blank"}, Cornell University.
-*[Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells){:target="_blank"}, Cornell University
+* [Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells){:target="_blank"}, Cornell University
