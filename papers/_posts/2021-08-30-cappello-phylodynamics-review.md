@@ -5,7 +5,7 @@ image: /images/papers/2021-08-30-cappello-phylodynamics-review.png
 authors: Cappello L, Kim J, Liu S, Palacios JA
 year: 2021
 ref: Cappello et al. 2021. arXiv
-journal: "arXiv:2108.13362 [stat.AP]."
+journal: "Statistical Science (accepted)."
 pdf: /pdfs/papers/2021-cappello-phylodynamics-review.pdf
 ---
 
