@@ -11,6 +11,7 @@ Gene drives are genetic constructs that can bias transmission of desired alleles
 
 We study gene drive eco-evolutionary dynamics through mathematical modeling incorporating the interactions between the ecological and evolutionary effects of gene drives to aid not only in designing gene drive configurations and deployment strategies but also in advancing our understanding of how ecology, evolution, and population history interact to shape genomic signatures, and how these interactions in turn influence the viability of populations.
 
-
+#### Collaborators
+* [Philipp Messer](https://messerlab.org/){:target="_blank"}, Cornell University. 
 
 
