@@ -9,6 +9,8 @@ The postdocs will be co-advised by three PIs—Jaehee Kim, Andrew Clark, and Mar
 
 The start date is ideally September 2022 but can be flexible. The initial appointment for the position is 2 years, and the continuation beyond the initial appointment will be based on the availability of funds and performance. 
 
+For more information, please contact [Jaehee Kim](mailto:jaehee.kim@cornell.edu).
+
 Cornell University sits within the vibrant and beautiful city of Ithaca in upstate New York. Ithaca offers an affordable quality of life and abundant multicultural and outdoor activities. The research environment at Cornell is friendly, highly collaborative, and interdisciplinary with numerous academic opportunities and social events that support early-career researchers.
 
 ### Qualifications
