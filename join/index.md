@@ -8,6 +8,9 @@ We are seeking new members at the postdoctoral and graduate levels. Potential me
 
 
 ### Postdoctoral Fellows
+**Current openings**:
+[Postdoctoral Associates on Statistical Modeling of Genetic Epidemiology](/join/curr_ad/){:target="_blank"}
+
 Strong candidates will likely have either:
 * PhD in a quantitative / computational field: mathematics, statistics, computer science, physics, or a related field. Experience with biological or clinical data is preferred but not required.
 * PhD in the biological sciences and a strong quantitative background.
