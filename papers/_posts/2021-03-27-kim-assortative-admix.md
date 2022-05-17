@@ -5,7 +5,7 @@ image: /images/papers/2021-03-27-kim-assortative-admix.png
 authors: Kim J, Edge MD, Goldberg A, Rosenberg NA
 year: 2021
 ref: Kim et al. 2021. Am. J. Phys. Anthropol.
-journal: "American Journal of Physical Anthropology 175:406– 421."
+journal: "American Journal of Physical Anthropology 175:406–421."
 doi: 10.1002/ajpa.24261
 ---
 

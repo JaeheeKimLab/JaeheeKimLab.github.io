@@ -5,7 +5,7 @@ image: /images/papers/2022-05-30-cappello-phylodynamics-review.png
 authors: Cappello L, Kim J, Liu S, Palacios JA
 year: 2022
 ref: Cappello et al. 2022. Statistical Science
-journal: "Statistical Science (accepted)."
+journal: "Statistical Science 37(2):162–182."
 pdf: /pdfs/papers/2022-cappello-phylodynamics-review.pdf
 ---
 
