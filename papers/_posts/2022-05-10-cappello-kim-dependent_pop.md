@@ -6,6 +6,7 @@ authors: Cappello L*, Kim J*, Palacios JA
 year: 2022
 ref: Cappello*, Kim*, and Palacios. 2022. (under review)
 journal: "(under review)."
+pdf: /pdfs/papers/2022-cappello-kim-dep-pop.pdf
 ---
 
 ### Abstract
