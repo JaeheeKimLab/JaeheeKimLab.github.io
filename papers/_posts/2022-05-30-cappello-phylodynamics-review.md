@@ -7,6 +7,8 @@ year: 2022
 ref: Cappello et al. 2022. Statistical Science
 journal: "Statistical Science 37(2):162–182."
 pdf: /pdfs/papers/2022-cappello-phylodynamics-review.pdf
+supplement: /pdfs/papers/2022-cappello-phylodynamics-review-si.pdf
+doi: 10.1214/22-STS853
 ---
 
 ### Abstract
