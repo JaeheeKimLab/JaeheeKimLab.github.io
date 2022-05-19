@@ -7,6 +7,7 @@ year: 2022
 ref: Cappello*, Kim*, and Palacios. 2022. (under review)
 journal: "(under review)."
 pdf: /pdfs/papers/2022-cappello-kim-dep-pop.pdf
+supplement: /pdfs/papers/2022-cappello-kim-dep-pop-si.pdf
 ---
 
 ### Abstract
