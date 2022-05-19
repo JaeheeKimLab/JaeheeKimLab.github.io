@@ -2,8 +2,8 @@
 layout: paper
 title: Human-Genetic Ancestry Inference and False Positives in Forensic Familial Searching 
 image: /images/papers/2020-08-01-fortier-codis-fm.png
-authos: "Fortier AL, Kim J, Rosenberg NA"
 year: 2020
+authos: Fortier AL, Kim J, Rosenberg NA
 ref: Fortier, Kim, and Rosenberg. 2020. G3
 journal: "G3: Genes, Genomes, Genetics 10(8):2893-2902."
 pdf: /pdfs/papers/2020-fortier-codis-fm.pdf
