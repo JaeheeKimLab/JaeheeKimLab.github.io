@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhaozhi Li
-position: PhD student
+position: PhD student in computational biology
 handle: zhaozhi
 github: lizhaozhi
 scholar: sHx8lxwAAAAJ
