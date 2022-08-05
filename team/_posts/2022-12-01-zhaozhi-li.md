@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhaozhi Li
-position: Graduate student
+position: PhD student
 handle: zhaozhi
 github: lizhaozhi
 scholar: sHx8lxwAAAAJ
