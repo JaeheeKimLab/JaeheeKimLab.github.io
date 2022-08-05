@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zhaozhi Li will join us as a PhD student.
+title: Zhaozhi joins the lab.
 author: Jaehee Kim
 ---
 
