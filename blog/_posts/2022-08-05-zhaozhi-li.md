@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sachin Kaushik will join us as a postdoc.
+title: Zhaozhi Li will join us as a PhD student.
 author: Jaehee Kim
 ---
 
-[Sachin Kaushik](/team/sachin-kaushik/) will join us as a postdoc starting on Oct 1, 2022. 
+[Zhaozhi Li](/team/zhaozhi-li/) will join us as a PhD student in computational biology starting on  Aug 22, 2022. 
