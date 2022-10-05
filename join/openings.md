@@ -7,7 +7,7 @@ We are seeking **two postdoctoral researchers** to work on the genetic epidemiol
 
 The postdocs will be co-advised by three PIs—Jaehee Kim, Andrew Clark, and Martin Wells—across the Department of Computational Biology and Department of Statistics and Data Science at Cornell University. The postdocs will also work in close collaboration with Kyu Rhee at Weill Cornell Medicine and Lorenzo Cappello in the Statistics group at Universitat Pompeu Fabra. In addition to the research, the successful applicants will receive necessary training for their career development, including in the areas of teaching, mentoring, and grant writing.
 
-The start date is ideally September 2022 but can be flexible. The initial appointment for the position is 2 years, and the continuation beyond the initial appointment will be based on the availability of funds and performance. 
+The start date can be flexible. The initial appointment for the position is 2 years, and the continuation beyond the initial appointment will be based on the availability of funds and performance. 
 
 For more information, please contact [Jaehee Kim](mailto:jaehee.kim@cornell.edu).
 
