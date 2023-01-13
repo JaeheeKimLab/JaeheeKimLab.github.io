@@ -3,7 +3,7 @@ layout: member
 title: Jeremy Jung
 position: Undergraduate, Mathematics and Computer Science
 handle: jeremyjung
-website: https://www.whoisjeremy.com
+website: whoisjeremy.com
 alumni: false
 image: /images/team/jeremy-jung.jpeg
 ---
