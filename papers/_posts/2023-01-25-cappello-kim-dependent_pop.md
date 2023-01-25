@@ -4,8 +4,8 @@ title: Bayesian Inference of Dependent Population Dynamics in Coalescent Models
 image: /images/papers/2022-05-25-cappello-kim-dependent_pop.png
 authors: Cappello L*, Kim J*, Palacios JA
 year: 2022
-ref: Cappello*, Kim*, and Palacios. 2022. bioRxiv
-journal: "bioRxiv 2022.05.22.492976."
+ref: Cappello*, Kim*, and Palacios. 2022. PLOS Computational Biology (accepted) 
+journal: "PLOS Computational Biology (accepted)."
 pdf: /pdfs/papers/2022-cappello-kim-dep-pop.pdf
 supplement: /pdfs/papers/2022-cappello-kim-dep-pop-si.pdf
 doi: 10.1101/2022.05.22.492976

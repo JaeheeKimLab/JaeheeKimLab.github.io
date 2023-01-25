@@ -4,7 +4,7 @@ title: Disentangling Heterogeneity of Malignant Pleural Mesothelioma through Dee
 image: /images/papers/2022-11-29-mangiante-mesomics.png
 authors: Mangiante L, Alcala N, Genova AD, Sexton-Oates A, Gonzalez-Perez A, Khandekar A, Bergstrom EN, Kim J, Giacobi C, Stang NL, Boyault S, Cuenin C, Tabone-Eglinger S, Damiola F, Voegele C, Ardin M, Michallet M, Soudade L, Delhomme TM, Poret A, Brevet M, Copin M, Giusiano-Courcambeck S, Damotte D, Girard C, Hofman V, Hofman P, Mouroux J, Lacomme S, Mazieres J, Montpreville VT, Perrin C, Planchard G, Rouquette I, Sagan C, Scherpereel A, Thivolet F, Vignaud J, Jean D, Ilg AGS, Olaso R, Meyer V, Boland A, Deleuze J, Altmuller J, Nuernberg P, Lantuejoul S, Ghantous A, Maussion C, Courtiol P, Hernandez-Vargas H, Caux C, Girard N, Lopez-Bigas N, Alexandrov LB, Salle FG, Foll M, Fernandez-Cuesta L
 year: 2022
-ref: Mangiante et al. 2022. Nature Genetics (accepted)
+ref: Mangiante et al. 2023. Nature Genetics (accepted)
 journal: "Nature Genetics (accepted)."
 pdf: /pdfs/papers/2022-mangiante-mesomics.pdf
 doi: 10.1101/2021.09.27.461908
