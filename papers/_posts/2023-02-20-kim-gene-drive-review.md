@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: Incorporating ecology into gene drive modeling
+title: Incorporating Ecology into Gene Drive Modeling
 image: /images/papers/2023-02-20-kim-gene-drive-review.png
 authors: Kim J, Harris KD, Kim IK, Shemesh S, Messer PW*, Greenbaum G*
 year: 2023
