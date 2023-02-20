@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Record-matching of STR profiles with fragmentary genomic SNP data"
+title: "Record-Matching of STR Profiles with Fragmentary Genomic SNP Data"
 image: /images/papers/2022-09-02-kim-rm-fragment.png
 authors: Kim J, Rosenberg NA
 year: 2022
