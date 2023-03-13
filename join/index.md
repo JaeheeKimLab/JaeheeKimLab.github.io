@@ -24,7 +24,7 @@ To apply, please email me the following info.
 
 
 ### Graduate Students
-*  Prospective graduate students with quantitative background can apply to the graduate program of the [Computational Biology](https://compbio.cornell.edu/){:target="_blank"}, [Applied Mathematics](https://www.cam.cornell.edu/){:target="_blank"}, or [Genetics, Genomics and Development](https://gendev.cornell.edu/){:target="_blank"} at Cornell. For students specifically interested in the lab, please notify me in advance about your application. 
+*  Prospective graduate students with quantitative background can apply to the graduate program of the [Computational Biology](https://compbio.cornell.edu/){:target="_blank"}, [Applied Mathematics](https://www.cam.cornell.edu/){:target="_blank"}, or [Genetics, Genomics and Development](https://gendev.cornell.edu/){:target="_blank"} at Cornell, or the [Tri-Institutional PhD Program in Computational Biology and Medicine (CBM)](https://gradschool.weill.cornell.edu/programs/tri-institutional-phd-programs){:target="_blank"} at Weill Cornell Medicine. For students specifically interested in the lab, please notify me in advance about your application. 
 *  For current graduate students at Cornell interested in the lab, please send me CV and a short description of research interest.
 
 
