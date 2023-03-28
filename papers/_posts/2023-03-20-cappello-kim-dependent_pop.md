@@ -1,7 +1,7 @@
 ---
 layout: paper
-title: adaPop: Bayesian Inference of Dependent Population Dynamics in Coalescent Models
-image: /images/papers/2023-03-20-cappello-kim-dependent_pop.png
+title: "adaPop: Bayesian Inference of Dependent Population Dynamics in Coalescent Models"
+image: /images/papers/2023-03-20-cappello-kim-dependent-pop.png
 authors: Cappello L*, Kim J*, Palacios JA
 year: 2023
 ref: Cappello*, Kim*, and Palacios. 2023. PLOS Computational Biology
