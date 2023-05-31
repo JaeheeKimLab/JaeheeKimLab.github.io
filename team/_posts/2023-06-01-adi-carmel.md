@@ -4,7 +4,7 @@ title: Adi Carmel
 position: Undergraduate, Computer Science, Computational Biology, and Neuroscience
 handle: adicarmel
 website: https://www.linkedin.com/in/adicarmel/
-alumni: false
+alumni: true
 image: /images/team/adi-carmel.jpg
 ---
 
