@@ -3,9 +3,9 @@ layout: paper
 title: "Record-Matching of STR Profiles with Fragmentary Genomic SNP Data"
 image: /images/papers/2022-09-02-kim-rm-fragment.png
 authors: Kim J, Rosenberg NA
-year: 2022
-ref: Kim and Rosenberg. 2022. bioRxiv.
-journal: "bioRxiv 2022.09.01.505545."
+year: 2023
+ref: Kim and Rosenberg. 2023. EJHG (in press)
+journal: "European Journal of Human Genetics (in press)."
 pdf: /pdfs/papers/2022-09-02-kim-rm-fragment.pdf
 doi: 10.1101/2022.09.01.505545
 ---
