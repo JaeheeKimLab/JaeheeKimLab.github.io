@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jeremy Jung
-position: MEng, Computer Science
+position: MEng Student in Computer Science
 handle: jeremyjung
 website: https://whoisjeremy.com
 alumni: false
