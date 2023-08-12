@@ -13,4 +13,5 @@ Hi, my name is Jeremy, and I'm a MEng student studying Computer Science. I am ve
 * Research interests:
 Natural language processing, computer vision, machine learning
 
-
+#### Education 
+* 2023 B.S. in Mathematics and Computer Science. Cornell University, Ithaca, NY
