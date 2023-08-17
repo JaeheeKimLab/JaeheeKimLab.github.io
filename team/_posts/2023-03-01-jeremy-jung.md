@@ -7,6 +7,7 @@ website: https://whoisjeremy.com
 alumni: false
 image: /images/team/jeremy-jung.jpeg
 ---
+Jan 2023–present
 
 Hi, my name is Jeremy, and I'm a MEng student studying Computer Science. I am very interested in fashion, and I also enjoy producing R&B and hip-hop music. Some of my current favorite artists are Drake, the Weeknd, and Blxst!
 

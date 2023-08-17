@@ -7,6 +7,7 @@ github: sliang-youyou
 alumni: false
 image: /images/team/shenni-liang.jpeg
 ---
+Jan 2023–present
 
 Hello, I am an undergraduate Computer Science major interested in computational biology. More specifically, I would love to explore machine learning and statistical methods in the context of life science, hoping to solve real-world problems. 
 

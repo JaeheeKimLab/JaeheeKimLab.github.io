@@ -8,6 +8,7 @@ scholar: sHx8lxwAAAAJ
 alumni: false
 image: /images/team/zhaozhi-li.png
 ---
+Aug 2022–present
 
 I am interested in using deep learning to solve complicated biological problems and study the interpretability of biological deep learning models.  My previous research focuses on understanding transcriptome and different cell population changes along disease progress. I have also developed a profound interest in developing new methods for integrating single-cell and phylogeny data, applying machine learning methods to biomedical research, and promoting open science. 
 
