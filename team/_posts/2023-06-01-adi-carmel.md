@@ -7,7 +7,7 @@ website: https://www.linkedin.com/in/adicarmel/
 alumni: true
 image: /images/team/adi-carmel.jpg
 ---
-Oct 2022–May 2023
+Sept 2022–May 2023
 
 * After graduating from Cornell in 2023, Adi is pursuing her studies as a MS student in Computational Biology and Quantitative Genetics at the Harvard T.H. Chan School of Public Health, Harvard University.
 
