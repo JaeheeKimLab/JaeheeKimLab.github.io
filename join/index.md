@@ -29,4 +29,5 @@ To apply, please email me the following info.
 
 
 ### Undergraduate Students
-Highly motivated undergraduate students with strong mathematical or computational backgrounds interested in the lab should email an inquiry to [Jaehee](mailto:jaehee.kim@cornell.edu) with a transcript (unofficial is fine), CV, and a short description of research interest. 
+Highly motivated undergraduate students with strong mathematical or computational backgrounds are encouraged to email an inquiry to [Jaehee](mailto:jaehee.kim@cornell.edu). Please include a transcript (unofficial transcripts are acceptable), a CV, and a brief description of your research interests. Ideal candidates will have completed several 4000-level courses in pertinent fields such as STSCI, MATH, CS, BIOCB, or their equivalents.
+
