@@ -5,6 +5,7 @@ position: PhD Student in Genetics, Genomics and Development
 handle: ryanchaffee
 alumni: false
 image: /images/team/ryan-chaffee.png
+email: rkc62@cornell.edu
 ---
 Mar 2023–present
 

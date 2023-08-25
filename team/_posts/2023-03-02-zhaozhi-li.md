@@ -7,6 +7,7 @@ github: lizhaozhi
 scholar: sHx8lxwAAAAJ
 alumni: false
 image: /images/team/zhaozhi-li.png
+email: zl643@cornell.edu
 ---
 Aug 2022–present
 
