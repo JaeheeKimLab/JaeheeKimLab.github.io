@@ -2,7 +2,7 @@
 layout: member
 title: Jaehee Kim
 position: Principal Investigator
-handle: jaeheekim
+handle: jk2236
 scholar: pOOe-o4AAAAJ
 email: jaehee.kim@cornell.edu
 image: /images/team/jaehee-kim.png
