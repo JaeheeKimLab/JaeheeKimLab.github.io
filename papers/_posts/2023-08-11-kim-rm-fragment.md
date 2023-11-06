@@ -5,7 +5,7 @@ image: /images/papers/2023-08-11-kim-rm-fragment.png
 authors: Kim J, Rosenberg NA
 year: 2023
 ref: Kim and Rosenberg. 2023. EJHG 
-journal: "European Journal of Human Genetics."
+journal: "European Journal of Human Genetics 31:1283–1290."
 pdf: /pdfs/papers/2023-kim-codis-frag.pdf
 supplement: /pdfs/papers/2023-kim-codis-frag-si.pdf
 doi: 10.1038/s41431-023-01430-9
