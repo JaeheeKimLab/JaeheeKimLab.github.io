@@ -3,7 +3,7 @@ layout: member
 title: Jenna Fields
 position: Research Assistant / Programmer
 handle: jennafields
-alumni: false
+alumni: true
 image: /images/team/jenna-fields.jpg
 ---
 Jan 2023–present
