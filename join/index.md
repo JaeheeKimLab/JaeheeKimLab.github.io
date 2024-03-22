@@ -30,9 +30,8 @@ To apply, please email me the following info.
     * [Applied Mathematics](https://www.cam.cornell.edu/){:target="_blank"}
     * [Genetics, Genomics and Development](https://gendev.cornell.edu/){:target="_blank"}  
     * [Tri-Institutional PhD Program in Computational Biology and Medicine (CBM)](https://gradschool.weill.cornell.edu/programs/tri-institutional-phd-programs){:target="_blank"} Weill Cornell Medicine). 
-    
-    For students specifically interested in the lab, please notify me in advance about your application. 
-*  For current graduate students at Cornell interested in the lab, please send me CV and a short description of research interest.
+* For students specifically interested in the lab, please notify me in advance about your application. 
+* For current graduate students at Cornell interested in the lab, please send me CV and a short description of research interest.
 
 
 ### Undergraduate Students
