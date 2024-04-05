@@ -1,8 +1,8 @@
 ---
 layout: paper
-title: "The recent rapid expansion of multidrug resistant Ural lineage *Mycobacterium tuberculosis* in Moldova"
+title: "The recent rapid expansion of multidrug resistant Ural lineage Mycobacterium tuberculosis in Moldova"
 image: /images/papers/2024-04-05-chitwood-mtb-moldova.png
-authors: Chitwood MH, Colijn C, Yang C, Crudu V, Ciobanu N, Codreanu A, **Kim J**, Rancu I, Rhee K, Cohen T, Sobkowiak B
+authors: Chitwood MH, Colijn C, Yang C, Crudu V, Ciobanu N, Codreanu A, Kim J, Rancu I, Rhee K, Cohen T, Sobkowiak B
 year: 2024
 ref: Chitwood et al. 2024. Nature Communications
 journal: "Nature Communications 15:2962."
