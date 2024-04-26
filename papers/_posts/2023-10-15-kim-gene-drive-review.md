@@ -6,7 +6,6 @@ authors: Kim J, Harris KD, Kim IK, Shemesh S, Messer PW*, Greenbaum G*
 year: 2023
 ref: Kim et al. 2023. Ecology Letters
 journal: "Ecology Letters 26:S62–S80."
-pdf: /pdfs/papers/2023-02-20-kim-gene-drive-review.pdf
 ---
 
 ### Abstract
