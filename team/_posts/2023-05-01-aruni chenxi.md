@@ -11,4 +11,4 @@ May 2024–present
 
 Hello! I'm Aruni, a class of 2026 Computer Science major, with minors in Mathematics and Operations Research. I'm interested in how math can be used to build models and make predictions. In my free time, I do competition math, play DnD, and look after my axolotl & salamander.
 
-* Aruni is supported by the [BURE](https://www.cs.cornell.edu/undergrad/uresch/cornell-bowers-cis-undergraduate-research-experience-bure){:target="_blank"} (Cornell Bowers CIS Undergraduate Research Experience) program.
+* Aruni is supported by the [BURE](https://cis.cornell.edu/students/bure-bowers-cis-undergraduate-research-experience){:target="_blank"} (Cornell Bowers CIS Undergraduate Research Experience) program.
