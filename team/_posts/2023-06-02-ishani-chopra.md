@@ -3,10 +3,12 @@ layout: member
 title: Ishani Chopra
 position: Undergraduate, Biological Sciences (CB) and Biometry & Statistics
 handle: ishanichopra
-alumni: false
+alumni: true
 image: /images/team/ishani-chopra.jpg
 ---
-Jun 2023–present
+Jun 2023–May 2024
+
+* After graduating from Cornell in 2024, Ishani is pursuing a Master's degree in Applied Statistics at the University of Michigan.
 
 Hi, I’m Ishani! I’m a rising senior majoring in Biological Sciences (CB) and Biometry & Statistics. I’m interested in Bayesian methods, stochastic processes, and statistical applications to genomics. In my free time, I like to explore Ithaca and try new drinks from cafes! I enjoy staying active and learning how to sew and knit.
 
