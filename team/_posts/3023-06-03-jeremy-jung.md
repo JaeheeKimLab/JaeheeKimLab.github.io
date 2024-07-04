@@ -5,7 +5,7 @@ position: MEng, Computer Science
 handle: jeremyjung
 website: https://whoisjeremy.com
 alumni: true
-image: /images/team/jeremy-jung.jpeg
+image: /images/team/jeremy-jung.png
 ---
 Jan 2023–Dec 2023
 
