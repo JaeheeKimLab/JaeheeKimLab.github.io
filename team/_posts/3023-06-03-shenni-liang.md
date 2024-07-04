@@ -5,7 +5,7 @@ position: MEng, Computer Science
 handle: shenniliang
 github: sliang-youyou
 alumni: true
-image: /images/team/shenni-liang.jpeg
+image: /images/team/shenni-liang.png
 ---
 Jan 2023–May 2024
 
