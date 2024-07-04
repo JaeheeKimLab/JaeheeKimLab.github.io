@@ -3,7 +3,7 @@ layout: member
 title: Vivian Zhao
 position: Undergraduate, Computer Science
 handle: vivianzhao
-alumni: false
+alumni: true
 image: /images/team/vivian-zhao.jpg
 ---
 Jun 2023–present
