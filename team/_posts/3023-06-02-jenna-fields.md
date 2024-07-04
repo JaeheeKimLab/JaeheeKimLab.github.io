@@ -4,7 +4,7 @@ title: Jenna Fields
 position: Research Assistant / Programmer
 handle: jennafields
 alumni: true
-image: /images/team/jenna-fields.jpg
+image: /images/team/jenna-fields.png
 ---
 Jan 2023–Feb 2024
 

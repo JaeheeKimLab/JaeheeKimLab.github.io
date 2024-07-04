@@ -5,7 +5,7 @@ position: Undergraduate, Computer Science
 handle: arunichenxi
 website: https://www.arunichenxi.com
 alumni: false
-image: /images/team/aruni-chenxi.jpg
+image: /images/team/aruni-chenxi.png
 ---
 May 2024–present
 

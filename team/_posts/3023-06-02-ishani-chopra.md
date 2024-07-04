@@ -4,7 +4,7 @@ title: Ishani Chopra
 position: Undergraduate, Biological Sciences (CB) and Biometry & Statistics
 handle: ishanichopra
 alumni: true
-image: /images/team/ishani-chopra.jpg
+image: /images/team/ishani-chopra.png
 ---
 Jun 2023–May 2024
 
