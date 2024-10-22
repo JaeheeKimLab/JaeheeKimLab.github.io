@@ -5,8 +5,9 @@ image: /images/papers/2024-10-03-zhang-nj-admix-cone.png
 authors: Zhang J, Lo WT, Stillman M, Kim J
 year: 2024
 ref: Zhang et al. 2024. bioRxiv 
-journal: "bioRxiv."
+journal: "bioRxiv 2024.10.18.619141."
 pdf: /pdfs/papers/2024-zhang-nj-admix-cone.pdf
+doi: 10.1101/2024.10.18.619141
 ---
 
 ### Abstract
