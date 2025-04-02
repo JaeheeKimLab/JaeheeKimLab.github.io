@@ -25,12 +25,13 @@ To apply, please email me the following info.
     * [Statistics](https://stat.cornell.edu/){:target="_blank"} 
     * [Applied Mathematics](https://www.cam.cornell.edu/){:target="_blank"}
     * [Genetics, Genomics and Development](https://gendev.cornell.edu/){:target="_blank"}  
+    *[Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank"}
     * [Tri-Institutional PhD Program in Computational Biology and Medicine (CBM)](https://gradschool.weill.cornell.edu/programs/tri-institutional-phd-programs){:target="_blank"} (Weill Cornell Medicine). 
     
     For students specifically interested in the lab, please notify me in advance about your application. 
-* For current graduate students at Cornell interested in the lab, please send me CV and a short description of research interest.
+* For current graduate students at Cornell interested in the lab, please send me CV, a transcript (unofficial transcript is ok), and a short description of research interest.
 
 
 ### Undergraduate Students
-Highly motivated undergraduate students with strong mathematical or computational backgrounds are encouraged to email an inquiry to [Jaehee](mailto:jaehee.kim@cornell.edu). Please include a transcript (unofficial transcripts are acceptable), a CV, and a brief description of your research interests. Ideal candidates will have completed several 4000-level courses in pertinent fields such as STSCI, MATH, CS, BTRY, or their equivalents.
+Highly motivated undergraduate students with strong mathematical or computational backgrounds are encouraged to email an inquiry to [Jaehee](mailto:jaehee.kim@cornell.edu). Please include CV, a transcript (unofficial transcript is ok), and a brief description of your research interests. Ideal candidates will have completed several 4000-level courses in pertinent fields such as STSCI, MATH, CS, BTRY, or their equivalents.
 
