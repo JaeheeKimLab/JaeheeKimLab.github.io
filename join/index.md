@@ -25,7 +25,7 @@ To apply, please email me the following info.
     * [Statistics](https://stat.cornell.edu/){:target="_blank"} 
     * [Applied Mathematics](https://www.cam.cornell.edu/){:target="_blank"}
     * [Genetics, Genomics and Development](https://gendev.cornell.edu/){:target="_blank"}  
-    *[Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank"}
+    * [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank"}
     * [Tri-Institutional PhD Program in Computational Biology and Medicine (CBM)](https://gradschool.weill.cornell.edu/programs/tri-institutional-phd-programs){:target="_blank"} (Weill Cornell Medicine). 
     
     For students specifically interested in the lab, please notify me in advance about your application. 
