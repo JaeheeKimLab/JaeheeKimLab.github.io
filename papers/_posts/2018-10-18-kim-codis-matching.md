@@ -2,7 +2,7 @@
 layout: paper
 title: Statistical Detection of Relatives Typed with Disjoint Forensic and Biomedical Loci
 image: /images/papers/2018-10-18-kim-codis-matching.png
-authors: Kim J, Edge MD, Algee-Hewitt BFB, Li JZ, Rosenberg NA 
+authors: <ins>Kim J</ins>, Edge MD, Algee-Hewitt BFB, Li JZ, Rosenberg NA 
 year: 2018
 ref: Kim et al. 2018. Cell
 journal: "Cell 175(3):848-858."

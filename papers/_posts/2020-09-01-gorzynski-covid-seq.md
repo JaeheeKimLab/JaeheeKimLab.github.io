@@ -2,7 +2,7 @@
 layout: paper
 title: High-Throughput SARS-CoV-2 and Host Genome Sequencing from Single Nasopharyngeal Swabs
 image: /images/papers/2020-09-01-gorzynski-covid-seq.png
-authors: Gorzynski JE, De Jong HN, Amar D, Hughes D, Ioannidis A, Bierman R, Liu D, Tanigawa Y, Kistler AL, Kamm J, Kim J, Cappello L, Neff NF, Rubinacci S, Delaneau O, Shoura MJ, Seo K, Kirillova A, Raja A, Sutton S, Huang C, Sahoo MK, Mallempati KC, Montero-Martin G, Osoegawa K, Watson N, Hammond N, Joshi R, Fernández-Viña MA, Christle JW, Wheeler MT, Febbo P, Farh K, Schroth GP, DeSouza F, Palacios J, Salzman J, Pinsky BA, Rivas MA, Bustamante CD, Ashley EA, Parikh VN
+authors: Gorzynski JE, De Jong HN, Amar D, Hughes D, Ioannidis A, Bierman R, Liu D, Tanigawa Y, Kistler AL, Kamm J, <ins>Kim J</ins>, Cappello L, Neff NF, Rubinacci S, Delaneau O, Shoura MJ, Seo K, Kirillova A, Raja A, Sutton S, Huang C, Sahoo MK, Mallempati KC, Montero-Martin G, Osoegawa K, Watson N, Hammond N, Joshi R, Fernández-Viña MA, Christle JW, Wheeler MT, Febbo P, Farh K, Schroth GP, DeSouza F, Palacios J, Salzman J, Pinsky BA, Rivas MA, Bustamante CD, Ashley EA, Parikh VN
 year: 2020
 ref: Gorzynski et al. 2020. medRxiv
 journal: "medRxiv 2020.07.27.20163147"

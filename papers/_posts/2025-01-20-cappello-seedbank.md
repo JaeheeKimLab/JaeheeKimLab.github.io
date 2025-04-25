@@ -2,7 +2,7 @@
 layout: paper
 title: "Bayesian phylodynamic inference of population dynamics with dormancy"
 image: /images/papers/2025-01-20-cappello-seedbank.png
-authors: Cappello L*, Lo WTJ*, Zhang JZ*, Xu P, Barrow D, Chopra I, Clark AG**, Wells MT**, Kim J**
+authors: Cappello L*, Lo WTJ*, Zhang JZ*, Xu P, Barrow D, Chopra I, Clark AG**, Wells MT**, <ins>Kim J</ins>**
 year: 2025
 ref: Cappello et al. 2025. PNAS (in press)
 journal: "Proceedings of the National Academy of Sciences of the United States of America (in press)."

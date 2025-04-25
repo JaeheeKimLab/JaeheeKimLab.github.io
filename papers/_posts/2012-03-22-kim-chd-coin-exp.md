@@ -2,7 +2,7 @@
 layout: paper
 title: Control of 1,3-Cyclohexadiene Photoisomerization Using Light-Induced Conical Intersections
 image: /images/papers/2012-03-22-kim-chd-coin-exp.png 
-authors: Kim J, Tao H, White JL, Petrovic VS, Martinez TJ, Bucksbaum PH 
+authors: <ins>Kim J</ins>, Tao H, White JL, Petrovic VS, Martinez TJ, Bucksbaum PH 
 year: 2012
 ref: Kim et al. 2012. J. Phys. Chem. A
 journal: "The Journal of Physical Chemistry A 116(11):2758-2763."

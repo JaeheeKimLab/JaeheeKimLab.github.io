@@ -2,7 +2,7 @@
 layout: paper
 title: Individual Identifiability Predicts Population Identifiability in Forensic Microsatellite Markers
 image: /images/papers/2016-04-04-edge-codis-ancestry.png
-authors: Algee-Hewitt BFB, Edge MD, Kim J, Li JZ, Rosenberg NA 
+authors: Algee-Hewitt BFB, Edge MD, <ins>Kim J</ins>, Li JZ, Rosenberg NA 
 year: 2016
 ref: Algee-Hewitt et al. 2016. Curr. Bio.
 journal: "Current Biology 26(7):935-942."

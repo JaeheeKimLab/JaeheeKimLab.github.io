@@ -2,7 +2,7 @@
 layout: paper
 title: "Ab Initio Multiple Spawning on Laser-Dressed States: A Study of 1,3-Cyclohexadiene Photoisomerization via Light-Induced Conical Intersections"
 image: /images/papers/2015-07-15-kim-chd-lici-theory.png 
-authors: Kim J, Tao H, Martinez TJ, Bucksbaum PH 
+authors: <ins>Kim J</ins>, Tao H, Martinez TJ, Bucksbaum PH 
 year: 2015
 ref: "Kim et al. 2015. J. Phys. B: At. Mol. Opt. Phys."
 journal: "Journal of Physics B: Atomic, Molecular and Optical Physics 48(16):164003."

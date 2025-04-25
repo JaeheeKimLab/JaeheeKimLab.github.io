@@ -2,7 +2,7 @@
 layout: paper
 title: Distance Metrics for Ranked Evolutionary Trees
 image: /images/papers/2020-11-17-kim-tree-metric.png
-authors: Kim J, Rosenberg NA, Palacios JA
+authors: <ins>Kim J</ins>, Rosenberg NA, Palacios JA
 year: 2020
 ref: Kim, Palacios, and Rosenberg. 2020. PNAS
 journal: "Proceedings of the National Academy of Sciences of the United States of America 117(46):28876-28886."

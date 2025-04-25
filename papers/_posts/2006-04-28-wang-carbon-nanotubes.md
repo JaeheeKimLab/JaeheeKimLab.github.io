@@ -2,7 +2,7 @@
 layout: paper
 title: "Interactions between Individual Carbon Nanotubes Studied by Rayleigh Scattering Spectroscopy"
 image: /images/papers/2006-04-28-wang-carbon-nanotubes.png 
-authors: Wang F, Sfeir MY, Huang L, Huang XMH, Wu Y, Kim J, Hone J, O’Brien S, Brus LE, Heinz TF 
+authors: Wang F, Sfeir MY, Huang L, Huang XMH, Wu Y, <ins>Kim J</ins>, Hone J, O’Brien S, Brus LE, Heinz TF 
 year: 2006
 ref: Wang et al. 2006. Phys. Rev. Lett.
 journal: "Physical Review Letters 96(16):167401."

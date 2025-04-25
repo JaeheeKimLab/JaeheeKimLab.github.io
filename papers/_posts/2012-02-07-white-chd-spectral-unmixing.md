@@ -2,7 +2,7 @@
 layout: paper
 title: Ultrafast Ring Opening in 1,3-cyclohexadiene Investigated by Simplex-Based Spectral Unmixing
 image: /images/papers/2012-02-07-white-chd-spectral-unmixing.png 
-authors: White JL, Kim J, Petrovic VS, Bucksbaum PH
+authors: White JL, <ins>Kim J</ins>, Petrovic VS, Bucksbaum PH
 year: 2012
 ref: White et al. 2012. J. Chem. Phys.
 journal: "The Journal of Chemical Physics 136(5):054303."

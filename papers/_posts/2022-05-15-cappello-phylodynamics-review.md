@@ -2,7 +2,7 @@
 layout: paper
 title: Statistical Challenges in Tracking the Evolution of SARS-CoV-2
 image: /images/papers/2022-05-15-cappello-phylodynamics-review.png
-authors: Cappello L, Kim J, Liu S, Palacios JA
+authors: Cappello L, <ins>Kim J</ins>, Liu S, Palacios JA
 year: 2022
 ref: Cappello et al. 2022. Statistical Science
 journal: "Statistical Science 37(2):162–182."

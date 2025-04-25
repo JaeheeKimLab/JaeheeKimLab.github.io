@@ -2,7 +2,7 @@
 layout: paper
 title: Designing Gene Drives to Limit Spillover to Non-Target Populations
 image: /images/papers/2021-02-25-greenbaum-gene-drive.png
-authors: Greenbaum G, Feldman MW, Rosenberg NA, Kim J 
+authors: Greenbaum G, Feldman MW, Rosenberg NA, <ins>Kim J</ins> 
 year: 2021
 ref: Greenbaum et al. 2021. PLOS Genetics
 journal: "PLOS Genetics 17(2):e1009278."

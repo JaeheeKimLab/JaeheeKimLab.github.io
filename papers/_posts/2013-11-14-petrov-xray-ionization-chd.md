@@ -2,7 +2,7 @@
 layout: paper
 title: Enhancement of Strong-Field Multiple Ionization in the Vicinity of the Conical Intersection in 1,3-cyclohexadiene Ring Opening
 image: /images/papers/2013-petrov-xray-ionization-chd.png
-authors: Petrovic VS, Schorb S, Kim J, White J, Cryan JP, Glownia JM, Zipp L, Broege D, Miyabe S, Tao H, Martinez TJ, Bucksbaum PH 
+authors: Petrovic VS, Schorb S, <ins>Kim J</ins>, White J, Cryan JP, Glownia JM, Zipp L, Broege D, Miyabe S, Tao H, Martinez TJ, Bucksbaum PH 
 year: 2013
 ref: Petrovic et al. 2013. J. Chem. Phys.
 journal: "The Journal of Chemical Physics 139(18):184309."

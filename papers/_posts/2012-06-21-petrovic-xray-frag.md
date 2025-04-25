@@ -2,7 +2,7 @@
 layout: paper
 title: "Transient X-Ray Fragmentation: Probing a Prototypical Photoinduced Ring Opening"
 image: /images/papers/2012-06-21-petrovic-xray-frag.png
-authors: Petrovic VS, Siano M, White JL, Berrah N, Bostedt C, Bozek JD, Broege D, Chalfin M, Coffee RN, Cryan J, Fang L, Farrell JP, Frasinski LJ, Glownia JM, Gühr M, Hoener M, Holland DMP, Kim J, Marangos JP, Martinez T, McFarland BK, Minns RS, Miyabe S, Schorb S, Sension RJ, Spector LS, Squibb R, Tao H, Underwood JG, Bucksbaum PH
+authors: Petrovic VS, Siano M, White JL, Berrah N, Bostedt C, Bozek JD, Broege D, Chalfin M, Coffee RN, Cryan J, Fang L, Farrell JP, Frasinski LJ, Glownia JM, Gühr M, Hoener M, Holland DMP, <ins>Kim J</ins>, Marangos JP, Martinez T, McFarland BK, Minns RS, Miyabe S, Schorb S, Sension RJ, Spector LS, Squibb R, Tao H, Underwood JG, Bucksbaum PH
 year: 2012
 ref: Petrovic et al. 2012. Phys. Rev. Lett.
 journal: "Physical Review Letters 108(25):253006."

@@ -2,7 +2,7 @@
 layout: paper
 title: "Skin Deep: The Decoupling of Genetic Admixture Levels from Phenotypes that Differed between Source Populations"
 image: /images/papers/2021-03-27-kim-assortative-admix.png
-authors: Kim J, Edge MD, Goldberg A, Rosenberg NA
+authors: <ins>Kim J</ins>, Edge MD, Goldberg A, Rosenberg NA
 year: 2021
 ref: Kim et al. 2021. Am. J. Phys. Anthropol.
 journal: "American Journal of Physical Anthropology 175:406–421."

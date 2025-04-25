@@ -2,7 +2,7 @@
 layout: paper
 title: Mathematical and Simulation-Based Analysis of the Behavior of Admixed Taxa in the Neighbor-Joining Algorithm
 image: /images/papers/2019-02-01-kim-nj-admix.png
-authors: Kim J, Disanto F, Kopelman NM, Rosenberg NA
+authors: <ins>Kim J</ins>, Disanto F, Kopelman NM, Rosenberg NA
 year: 2019
 ref: Kim et al. 2019. Bull. Math. Biol.
 journal: "Bulletin of Mathematical Biology 81(2):452-493."
