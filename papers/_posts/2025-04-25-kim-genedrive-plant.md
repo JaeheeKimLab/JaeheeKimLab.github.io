@@ -5,10 +5,10 @@ image: /images/papers/2025-kim-genedrive-plant.png
 authors: Kim I*, Tian L*, Chaffee R, Haller BC, Champer J**, Messer PW**, <ins>Kim J</ins>**
 year: 2025
 ref: Kim et al. 2025. bioRxiv
-journal: "bioRxiv."
+journal: "bioRxiv 2025.04.24.649389."
 pdf: /pdfs/papers/2025-kim-genedrive-plant.pdf
 supplement: /pdfs/papers/2025-kim-genedrive-plant-si.pdf
-
+doi: 10.1101/2025.04.24.649389
 ---
 
 ### Abstract
