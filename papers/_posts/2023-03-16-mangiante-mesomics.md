@@ -5,7 +5,7 @@ image: /images/papers/2023-03-16-mangiante-mesomics.png
 authors: Mangiante L, Alcala N, Genova AD, Sexton-Oates A, Gonzalez-Perez A, Khandekar A, Bergstrom EN, <ins>Kim J</ins>, Giacobi C, Stang NL, Boyault S, Cuenin C, Tabone-Eglinger S, Damiola F, Voegele C, Ardin M, Michallet M, Soudade L, Delhomme TM, Poret A, Brevet M, Copin M, Giusiano-Courcambeck S, Damotte D, Girard C, Hofman V, Hofman P, Mouroux J, Lacomme S, Mazieres J, Montpreville VT, Perrin C, Planchard G, Rouquette I, Sagan C, Scherpereel A, Thivolet F, Vignaud J, Jean D, Ilg AGS, Olaso R, Meyer V, Boland A, Deleuze J, Altmuller J, Nuernberg P, Lantuejoul S, Ghantous A, Maussion C, Courtiol P, Hernandez-Vargas H, Caux C, Girard N, Lopez-Bigas N, Alexandrov LB, Salle FG, Foll M, Fernandez-Cuesta L
 year: 2023
 ref: Mangiante et al. 2023. Nature Genetics
-journal: "Nature Genetics (in press)."
+journal: "Nature Genetics 55:607–618."
 pdf: /pdfs/papers/2023-mangiante-mesomics.pdf
 supplement: /pdfs/papers/2023-mangiante-mesomics-si.pdf
 doi: 10.1038/s41588-023-01321-1
