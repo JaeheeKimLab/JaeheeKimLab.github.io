@@ -5,7 +5,7 @@ image: /images/papers/2025-05-02-cappello-seedbank.png
 authors: Cappello L*, <ins>Lo WTJ</ins>*, <ins>Zhang JZ</ins>*, <ins>Xu P</ins>, <ins>Barrow D</ins>, <ins>Chopra I</ins>, Clark AG**, Wells MT**, <ins>Kim J</ins>**
 year: 2025
 ref: Cappello et al. 2025. PNAS
-journal: *Proceedings of the National Academy of Sciences of the United States of America* 122(18):e2501394122.
+journal: "Proceedings of the National Academy of Sciences of the United States of America 122(18):e2501394122."
 pdf: /pdfs/papers/2025-cappello-seedbank.pdf
 supplement: /pdfs/papers/2025-cappello-seedbank-si.pdf
 doi: 10.1073/pnas.2501394122
