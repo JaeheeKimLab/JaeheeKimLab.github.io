@@ -2,7 +2,7 @@
 layout: paper
 title: "Network-based genetic monitoring of landscape fragmentation"
 image: /images/papers/2025-peled-network-fragment.png
-authors: Cappello L*, <ins>Kim J</ins>, Greenbaum G
+authors: Peled O, <ins>Kim J</ins>, Greenbaum G
 year: 2025
 ref: Peled, Kim, and Greenbaum. 2025. bioRxiv
 journal: "bioRxiv 2025.06.18.660081."
