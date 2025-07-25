@@ -2,7 +2,7 @@
 layout: paper
 title: "A clinically relevant morpho-molecular classification of lung neuroendocrine tumours"
 image: /images/papers/2025-sexton-oates-lung-net.png
-authors: Sexton-Oates A, Mathian E, ..., <ins>Li Z</ins>, ..., <ins>Kim J</ins>, ..., Alcala N, Foll M, Fernandez-Cuesta L 
+authors: Sexton-Oates A*, Mathian E*, ..., <ins>Li Z</ins>, ..., <ins>Kim J</ins>, ..., Alcala N**, Foll M**, Fernandez-Cuesta L** 
 year: 2025
 ref: Sexton-Oates et al. 2025. medRxiv
 journal: "medRxiv 2025.07.18.25331556."
