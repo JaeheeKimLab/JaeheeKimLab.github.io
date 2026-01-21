@@ -5,7 +5,7 @@ image: /images/papers/2025-peled-network-fragment.png
 authors: Peled O, <ins>Kim J</ins>, Greenbaum G
 year: 2025
 ref: Peled, Kim, and Greenbaum. 2025. bioRxiv
-journal: "bioRxiv 2025.06.18.660081."
+journal: "Proceedings of the National Academy of Sciences of the United States of America (accepted)."
 pdf: /pdfs/papers/2025-peled-network-fragment.pdf
 supplement: /pdfs/papers/2025-peled-network-fragment-si.pdf
 doi: 10.1101/2025.06.18.660081
