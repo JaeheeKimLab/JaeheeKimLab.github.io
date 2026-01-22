@@ -3,9 +3,9 @@ layout: paper
 title: "Gene drive dynamics in plants: the role of seedbanks"
 image: /images/papers/2025-kim-genedrive-plant.png
 authors: Kim I*, <ins>Tian L</ins>*, <ins>Chaffee R</ins>, Haller BC, Champer J**, Messer PW**, <ins>Kim J</ins>**
-year: 2025
-ref: Kim et al. 2025. bioRxiv
-journal: "bioRxiv 2025.04.24.649389."
+year: 2026
+ref: Kim et al. 2026. Nature Plants (accepted)
+journal: "Nature Plants (accepted)."
 pdf: /pdfs/papers/2025-kim-genedrive-plant.pdf
 supplement: /pdfs/papers/2025-kim-genedrive-plant-si.pdf
 doi: 10.1101/2025.04.24.649389
