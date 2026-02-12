@@ -16,4 +16,5 @@ Hello, I am an undergraduate Computer Science major interested in computational 
 * Shenni is supported by the [CIHMID](https://cihmid.cornell.edu/){:target="_blank"} (Cornell Institute of Host-Microbe Interactions and Disease) URE program.
 
 #### Education 
+* 2023 M.Eng. in Computer Science. Cornell University, Ithaca, NY
 * 2023 B.S. in Computer Science. Cornell University, Ithaca, NY
