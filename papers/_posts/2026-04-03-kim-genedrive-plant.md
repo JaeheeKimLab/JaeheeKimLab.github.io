@@ -5,7 +5,7 @@ image: /images/papers/2026-kim-genedrive-plant.png
 authors: Kim I*, <ins>Tian L</ins>*, <ins>Chaffee R</ins>, Haller BC, Champer J**, Messer PW**, <ins>Kim J</ins>**
 year: 2026
 ref: Kim et al. 2026. Nature Plants
-journal: "Nature Plants."
+journal: "Nature Plants 12:735–749."
 pdf: /pdfs/papers/2026-kim-genedrive-plant.pdf
 supplement: /pdfs/papers/2026-kim-genedrive-plant-si.pdf
 doi: 10.1038/s41477-026-02256-1
