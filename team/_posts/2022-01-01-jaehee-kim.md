@@ -10,7 +10,8 @@ image: /images/team/jaehee-kim.png
 
 #### Education
 * Ph.D. in Physics. Stanford University, Stanford, CA
-* B.A. in Physics and Mathematics, *summa cum laude*; Valedictorian. Columbia University, New York, NY
+* B.A. in Physics and Mathematics. Columbia University, New York, NY<br/>
+  Honors: valedictorian, *summa cum laude*
 
 #### Positions 
 * Postdoctoral Research Fellow. Department of Biology, Stanford University, Stanford, CA
