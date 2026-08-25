@@ -15,3 +15,4 @@ Hello! I’m Aruni, a PhD student in Computational Biology. I am interested in m
 
 #### Education 
 * 2026 B.S. in Computer Science. Cornell University, Ithaca, NY
+* May 2024–May 2026: Aruni worked in the lab as an undergraduate researcher supported by the [BURE](https://cis.cornell.edu/students/bure-bowers-cis-undergraduate-research-experience){:target="_blank"} (Cornell Bowers CIS Undergraduate Research Experience) program.
