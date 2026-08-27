@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Network-based genetic monitoring of landscape fragmentation"
-image: /images/papers/2026-peled-network-fragment.png
+image: /images/papers/2026-02-18-peled-network-fragment.png
 authors: Peled O, <ins>Kim J</ins>, Greenbaum G
 year: 2026
 ref: Peled, Kim, and Greenbaum. 2026. PNAS 

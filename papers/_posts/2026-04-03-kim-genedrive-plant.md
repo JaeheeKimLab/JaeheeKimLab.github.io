@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Seed dormancy shapes gene drive dynamics in plants"
-image: /images/papers/2026-kim-genedrive-plant.png
+image: /images/papers/2026-04-03-kim-genedrive-plant.png
 authors: Kim I*, <ins>Tian L</ins>*, <ins>Chaffee R</ins>, Haller BC, Champer J**, Messer PW**, <ins>Kim J</ins>**
 year: 2026
 ref: Kim et al. 2026. Nature Plants
